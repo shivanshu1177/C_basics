@@ -2,6 +2,7 @@
 
 main( )
 {
+    
 int j ;
 while ( j <= 10 )
 {
