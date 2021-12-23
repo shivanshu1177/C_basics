@@ -20,7 +20,7 @@ int main()
     }
     else
     {
-        printf("Not Pelnidrome");
+        printf("Not Penlidrome");
     }
     
     
