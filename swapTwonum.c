@@ -19,7 +19,7 @@ int main()
     scanf("%i", &y);
 
     swap(&x, &y);
-    printf("After swapping: x = %i, y = %i", x, y);
+    printf("After swap: x = %i, y = %i", x, y);
 
 
     return 0;
